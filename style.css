@@ -115,3 +115,7 @@ body{
     border: 8px solid red;
     
 }
+.imagent img {
+    transform:  scale(0.8) rotate(10deg);
+    filter: grayscale(80%)  brightness(120%);
+}
